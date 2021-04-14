@@ -1,0 +1,8 @@
+welcome: "Welcome!"
+intro: "I am Mr.Calculator"
+valid_name: "Make sure to enter a valid name."
+message_no_1: "What is the first number?"
+message_no_2: "What is the second number?"
+
+
+# ... rest of file omitted for brevity
